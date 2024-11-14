@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ezone</string>
+    <string name="enter_system_id">Enter System ID</string>
+    <string name="service_name">Notification_Listener_Service</string>
+</resources>
